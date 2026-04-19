@@ -11,9 +11,7 @@ Saya sekarang ini juga sedang menempuh pendidikan di [STMIK Triguna Dharma](http
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/sanu-ahadi-waruwu-4357ab303/) ku ya.
 
 ### Github Statistic
-<p align="left">
-<a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=sanupaii&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanupaii&layout=compact&theme=radical" />
+</div>
