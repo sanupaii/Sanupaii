@@ -12,6 +12,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.
 
 ### Github Statistic
 <div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=sanupaii&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=sanupaii&show_icons=true&theme=radical" />
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanupaii&layout=compact&theme=radical" />
 </div>
